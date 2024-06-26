@@ -217,8 +217,9 @@ footer h5 {
 
     .caixa-principal{
         background-image: none;
+        height: 90vh;
     }
-
+   
     .meu-nome h1{
        font-size: 40px;
     }
